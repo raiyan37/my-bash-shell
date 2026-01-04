@@ -1,10 +1,10 @@
 # Interactive Python Shell
 
-![Shell](assets/shell.jpg)
-
 This project implements a cross-platform shell environment that integrates a standard command-line interface with a graphical file browser. It uses a split-pane layout to provide simultaneous views of the file system and the terminal emulator.
 
 The application handles both built-in shell commands (like `cd`, `ls`, `history`) and external system processes. It features a custom command execution engine capable of handling pipelines, standard output redirection, and history persistence compatible with standard shell environments.
+
+![Shell](assets/shell.jpg)
 
 ### Technical Implementation
 
