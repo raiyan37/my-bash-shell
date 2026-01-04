@@ -24,6 +24,12 @@ This project relies on the standard Python library, minimizing external dependen
 * **[Courier Font](https://en.wikipedia.org/wiki/Courier_(typeface))**: Used as the fallback monospace font for non-macOS platforms.
 * **[OS Module](https://docs.python.org/3/library/os.html)**: Used extensively for filesystem traversal, environment variable access (`HISTFILE`, `PATH`), and process management.
 
+### How to Run
+Execute the main entry point to launch the application:
+```bash
+python main.py
+```
+
 ### Project Structure
 
 The project is structured as a flat Python package.
