@@ -4,7 +4,7 @@ This project implements a cross-platform shell environment that integrates a sta
 
 The application handles both built-in shell commands (like `cd`, `ls`, `history`) and external system processes. It features a custom command execution engine capable of handling pipelines, standard output redirection, and history persistence compatible with standard shell environments.
 
-![Shell](assets/shell.jpg)
+![Shell](assets/shell.gif)
 
 ### Technical Implementation
 
